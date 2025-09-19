@@ -1,0 +1,7 @@
+	<resources>
+    <string name="app_name">Entropy Engine</string>
+    <string name="base_search">Base Search</string>
+    <string name="advanced_engine_search">Advanced Engine Search</string>
+    <string name="loading">Loading…</string>
+    <string name="results">Results</string>
+</resources>
